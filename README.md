@@ -1,5 +1,5 @@
-projects
-========
+Fraction class in onjective-c
+=============================
 
 Personal Project about Fraction Class to implementent operations on fractions.
 
