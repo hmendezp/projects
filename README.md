@@ -7,4 +7,4 @@ You need GNUstep installed, and then you can compile with this command line:
 
 gcc `gnustep-config --objc-flags` -L /GNUstep/System/Library/Libraries FractionTest.m Fraction.m -o FractionTest -lgnustep-base -lobjc
 
-For the moment is only implemented the 'add' operation, but is in the road the othes basic operations: subtract, multiply, divide
+For the moment is only implemented the 'add' operation, but is in the road the other basic operations: subtract, multiply, divide
