@@ -3,7 +3,7 @@ Fraction class in onjective-c
 
 Personal Project about Fraction Class to implementent operations on fractions.
 
-You need GNUstep installed, and the compile with this command line:
+You need GNUstep installed, and then you can compile with this command line:
 
 gcc `gnustep-config --objc-flags` -L /GNUstep/System/Library/Libraries FractionTest.m Fraction.m -o FractionTest -lgnustep-base -lobjc
 
