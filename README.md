@@ -1,4 +1,4 @@
-Fraction class in onjective-c
+Fraction class in objective-c
 =============================
 
 Personal Project about Fraction Class to implementent operations on fractions.
