@@ -14,9 +14,13 @@ When you run the FractionTest you will get the following output:
 $ FractionTest
 
 -3/4
+
  +
+
 -1/10
- =
+
+=
+
 -17/20
 
 
