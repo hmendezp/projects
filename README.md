@@ -12,6 +12,7 @@ There are implemented the following operations: add, subtract, multiply and divi
 When you run the FractionTest you will get the following output:
 
 $ FractionTest
+
 -3/4
  +
 -1/10
