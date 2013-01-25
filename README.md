@@ -9,7 +9,7 @@ gcc `gnustep-config --objc-flags` -L /GNUstep/System/Library/Libraries FractionT
 
 There are implemented the following operations: add, subtract, multiply and divide.
 
-When you run the FractionTest you will get the following output:
+When you run the FractionTest you will get the following output: (with more line feeds)
 
 $ FractionTest
 
